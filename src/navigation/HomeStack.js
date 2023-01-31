@@ -2,7 +2,6 @@ import * as React from "react";
 import {createStackNavigator} from '@react-navigation/stack'
 import Home from "../screens/Home";
 import Login from "../loginpages/Login";
-import MaleSroll from "../component/MaleScroll";
 import Splash from "../component/Splash";
 import MaleScroll from "../component/MaleScroll";
 const Stack=createStackNavigator();
